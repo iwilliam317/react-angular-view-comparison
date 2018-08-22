@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div class="faq">
+    <h1>{{msg}}</h1>
 
 
   </div>
@@ -8,10 +8,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Faq',
   data () {
     return {
-      msg: 'Welcome to My Vue Project :)'
+      msg: 'My FAQ page'
     }
   }
 }
