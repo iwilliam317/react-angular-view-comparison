@@ -11,8 +11,8 @@ export default {
 }
 </script>
 
-<style lang="saas">
-@import '../node_modules/bulma/bulma.saas'
+<style lang="sass">
+@import '../node_modules/bulma/bulma.sass'
 #app
   font-family: 'Avenir', Helvetica, Arial, sans-serif
   -webkit-font-smoothing: antialiased
